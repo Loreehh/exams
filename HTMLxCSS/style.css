@@ -20,5 +20,12 @@
 
 .descrizione{
     font-family: Helvetica;
-    
+    font-size: large;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.spazio{
+    align-items: center;
+
 }
