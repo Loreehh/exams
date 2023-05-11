@@ -11,11 +11,20 @@
     display: flex;
     position: absolute;
     padding-top: 0cm;
+    padding-left: 500px;
     place-items: center;
     align-items: center;
     image-rendering: optimizeQuality;
     place-items: center;
     justify-items: center;
+}
+
+.bottone{
+    color: brown;
+    justify-content: center;
+    place-items: center;
+    justify-items: center;
+    align-items: center;
 }
 
 .descrizione{
@@ -27,5 +36,7 @@
 
 .spazio{
     align-items: center;
-
+    place-items: center;
+    justify-items: center;
+    justify-content: center;
 }
